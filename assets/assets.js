@@ -12,7 +12,8 @@ import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
 import logo from './logo.png';
-import logo_dark from './logo_dark.png';
+// import logo_dark from './logo_dark.jpg';
+
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
 import profile_img from './profile-img.png';
@@ -35,6 +36,9 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import Alex from "./Alex.jpg";
+// import logo from "./logo.webp"
+import logo_dark from "./logo-dark.png";
 
 export const assets = {
     user_image,
@@ -73,7 +77,8 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    Alex
 };
 
 export const workData = [
