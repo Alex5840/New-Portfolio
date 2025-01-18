@@ -35,7 +35,7 @@ import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import Alex from "./Alex.jpg";
-import logo_dark from "./logo-dark.png";
+import logo_dark from "./logo_dark.png";
 
 export const assets = {
     user_image,
